@@ -1,0 +1,18 @@
+h2
+{
+  color:lime;
+}
+canvas
+{
+  width:300pt;
+  height:200pt;
+  border:1pt solid yellow;
+}
+div
+{ 
+  background-color:darkslategrey;
+}
+#im
+{
+  color:lime;
+}
